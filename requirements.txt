@@ -8,5 +8,5 @@ requests
 pandas
 fpdf
 python-dotenv
-duckduckgo-search
+duckduckgo-search>=5.0
 pydantic
